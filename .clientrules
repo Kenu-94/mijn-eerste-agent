@@ -1,0 +1,15 @@
+# Agent Rules
+
+## Taal & conventies
+- Gebruik Python 3.12+
+- Type hints verplicht
+- Tests: pytest
+
+## Werkwijze
+- Schrijf tests vóór implementatie
+- Voer na elke wijziging de tests uit
+- Max 3 retries per failing test, daarna stoppen en vragen
+
+## Definitie van Done
+- [ ] Alle tests slagen
+- [ ] Geen ongebruikte imports
